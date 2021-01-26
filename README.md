@@ -11,6 +11,7 @@ Trying to give back to the open source community everything it has taught / help
 
 ### 📚 I’m currently learning ...
   
+  * Kotlin Multiplatform.
   * Svelte.
   * Rust.
 
